@@ -11,7 +11,7 @@ const filmes = [
     },
     {
     id: 1,
-    nome: 'Avatar',
+    nome: 'Transformers 1',
     genero: 'fantasia',
     lancamento: 2010
     },
@@ -106,7 +106,7 @@ btn1.addEventListener('click',()=>{
     inputUsuario.value = ''
 })
 /*
-Função corrigaaaaaa
+Função blablabla
 */
 
 const favoritoClicado = (eventoDeClique) => {
